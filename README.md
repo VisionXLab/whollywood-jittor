@@ -5,7 +5,7 @@ We develop **Wholly-WOOD** (**Wholly** Leveraging Diversified-quality Labels for
 This project is the [Jittor](https://github.com/Jittor/jittor) implementation of Wholly-WOOD. The code works with **Jittor 1.3.8.5**. It is modified from [JDet](https://github.com/Jittor/JDet), which is an object detection benchmark mainly focus on oriented object detection. PyTorch version: [Wholly-WOOD (PyTorch)](https://github.com/yuyi1005/whollywood).
 
 ## Models
-This repository contains the Wholly-WOOD model and our series work on weakly-supervised OOD (i.e. H2RBox, H2RBox-v2, and Point2RBox).
+This repository contains the Wholly-WOOD model and our series of work on weakly-supervised OOD (i.e. H2RBox, H2RBox-v2, and Point2RBox).
 
 ### 1. Wholly-WOOD
 We can train/test Wholly-WOOD model by:
