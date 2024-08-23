@@ -2,7 +2,7 @@
 ## Introduction
 We develop **Wholly-WOOD** (**Wholly** Leveraging Diversified-quality Labels for **W**eakly-supervised **O**riented **O**bject **D**etection), a weakly-supervised OOD framework, capable of wholly leveraging various labeling forms (Points, HBoxes, RBoxes, and their combination) in a unified fashion. By only using HBox for training, our Wholly-WOOD achieves performance very close to that of the RBox-trained counterpart on remote sensing and other areas, which significantly reduces the tedious efforts on labor-intensive annotation for oriented objects.
 
-This project is the [Jittor](https://github.com/Jittor/jittor) implementation of Wholly-WOOD. The code works with **Jittor 1.3.8.5**. It is modified from [JDet](https://github.com/Jittor/JDet), which is an object detection benchmark mainly focus on oriented object detection.
+This project is the [Jittor](https://github.com/Jittor/jittor) implementation of Wholly-WOOD. The code works with **Jittor 1.3.8.5**. It is modified from [JDet](https://github.com/Jittor/JDet), which is an object detection benchmark mainly focus on oriented object detection. PyTorch version: [Wholly-WOOD (PyTorch)](https://github.com/yuyi1005/whollywood).
 
 ## Models
 This repository contains the Wholly-WOOD model and our series work on weakly-supervised OOD (i.e. H2RBox, H2RBox-v2, and Point2RBox).
