@@ -1,0 +1,20 @@
+{
+    'plane': (80, 80, 0.6, 0.6),
+    'baseball-diamond': (80, 80, 0.5, 0.1),
+    'bridge': (80, 40, 0.5, 0.4),
+    'ground-track-field': (80, 40, 0.8, 0.4),
+    'small-vehicle': (80, 40, 0.4, 0.3),
+    'large-vehicle': (80, 40, 0.4, 0.8),
+    'ship': (80, 40, 0.4, 0.5),
+    'tennis-court': (80, 40, 0.4, 0.4),
+    'basketball-court': (80, 40, 0.4, 0.4),
+    'storage-tank': (80, 80, 0.8, 0.1),
+    'soccer-ball-field': (80, 40, 0.8, 0.4),
+    'roundabout': (80, 80, 0.8, 0.1),
+    'harbor': (80, 40, 0.8, 0.8),
+    'swimming-pool': (80, 40, 0.4, 0.6),
+    'helicopter': (80, 40, 0.4, 0.4),
+    'container-crane': (80, 40, 0.4, 0.4),
+    'airport': (80, 40, 0.4, 0.4),
+    'helipad': (80, 80, 0.8, 0.1)
+}
