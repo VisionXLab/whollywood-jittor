@@ -292,6 +292,8 @@ class Point2RBoxHead(nn.Module):
 
         bbox_pred = self.scales[0](bbox_pred).float()
         bbox_pred = bbox_pred.clamp(min_v=0) * scale_preds
+        if not self.is_training(): 
+            bbox_pred *= self.strides[0]
 
         theta_pred = self.conv_theta(reg_feat)
         if self.scale_theta:
