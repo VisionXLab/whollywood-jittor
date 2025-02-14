@@ -83,4 +83,11 @@ You can choose the visualization style you prefer, for more details about visual
 <img src="https://github.com/Jittor/JDet/blob/visualization/docs/images/vis2.jpg?raw=true" alt="Visualization" width="800"/>
 
 ## Citation
-Coming soon.
+```
+@article{yu2025whollywood,
+  title={Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection}, 
+  author={Yi Yu and Xue Yang and Yansheng Li and Zhenjun Han and Feipeng Da and Junchi Yan},
+  year={2025},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+}
+```
